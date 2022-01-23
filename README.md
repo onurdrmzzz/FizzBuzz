@@ -12,22 +12,39 @@ When the number is divisible by 5, program will print "Buzz" instead of 5.
 And if the number is divisible by both 3 and 5 then program will print "FizzBuzz"
 
 1
+
 2
+
 Fizz
+
 4
+
 Buzz
+
 Fizz
+
 7
+
 8
+
 Fizz
+
 Buzz
+
 11
+
 Fizz
+
 13
+
 14
+
 FizzBuzz
+
 .
+
 .
+
 .
 
 
